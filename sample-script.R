@@ -1,10 +1,10 @@
 #--------------------------------------------------------------
-# Author: [Replace with your name]
+# Author: Nicola
 #
 # Purpose: Make simple, local edits to an R script and push 
 #          them to GitHub
 #
-# Last Updated: [Replace with today's date]
+# Last Updated: October 27, 2024
 #--------------------------------------------------------------
 
 # I'm making a change to see if I am doing this right
