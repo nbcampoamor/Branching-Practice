@@ -11,5 +11,9 @@ Adding a modification to branch read me.
 - Team Member 2: Dominique Seo
 
 
+<<<<<< add-member-jenny
+- Team Member 3: Jenny! Spencer!
+=======
 - Team Member 3:
  main
+>>>>>> main
