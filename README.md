@@ -8,4 +8,4 @@
 - Team Member 2: Dominique Seo
 
 
-- Team Member 3:
+- Team Member 3: Jenny! Spencer!
